@@ -28,9 +28,6 @@ export default function CookieBanner() {
     <div className="fixed bottom-0 left-0 right-0 z-50 p-4 md:p-6">
       <div className="max-w-3xl mx-auto bg-card border border-border rounded-lg shadow-2xl p-6">
         <div className="flex items-start gap-4">
-          <div className="shrink-0 w-10 h-10 rounded-full bg-primary/10 border border-primary/30 flex items-center justify-center">
-            <Cookie className="w-5 h-5 text-primary" />
-          </div>
           <div className="flex-1">
             <h3 className="font-serif text-foreground text-base mb-2 tracking-wide">
               Diese Website verwendet Cookies

@@ -142,7 +142,7 @@ export default function KraeuterbitterPage() {
                   </div>
                   <div className="text-right">
                     <div className="border border-primary/30 rounded px-5 py-3 text-center bg-background">
-                      <span className="block text-primary font-serif text-3xl font-bold leading-none">{v.abv.split(" ")[0]}</span>
+                      <span className="block text-primary font-serif text-3xl font-bold leading-none">{v.abv.split(" ")[1]}</span>
                       <span className="block text-muted-foreground text-xs tracking-widest uppercase mt-1">Vol. max.</span>
                     </div>
                   </div>
